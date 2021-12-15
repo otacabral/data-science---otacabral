@@ -1,23 +1,20 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
 # Otávio Cabral
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Science student*</sub>
 
-As a engineering student from "Universidade Estadual do Rio de Janeiro(UERJ)", I'm learning about Data Scientist and also publishing few projects.
+As a engineering student from "Universidade Estadual do Rio de Janeiro(UERJ)", I'm learning about Data Science and also publishing few projects.
 
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning.
 
 **Links:**
 * 
-* [LinkedIn](https://www.linkedin.com)
-* [Medium](https://www.medium.com)
-
+* [LinkedIn](https://www.linkedin.com/in/ot%C3%A1vio-cabral-78a959228/)
 
 ## Projetos:
 
