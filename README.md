@@ -17,3 +17,4 @@ As a engineering student from "Universidade Estadual do Rio de Janeiro(UERJ)", I
 
 ## Projetos:
 
+* Análise de dados do AirBnB na cidade de Atenas, Grécia. - https://bit.ly/3IQNBJy 
